@@ -2,15 +2,11 @@ import time
 from validate_email import validate_email
 from openpyxl import Workbook, load_workbook
 
-
-
 log_or_sing = str(input("Do you want to login or singup: "))
-
 
 ####### Setting up Excel sheet: Workbook & Worksheet 👇 ######
 workbook = load_workbook('Login_System.xlsx')
 info_sheet = workbook['Username_Password']
-
 
 
 ######### Start: Timer 👇 #####
