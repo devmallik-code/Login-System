@@ -6,6 +6,6 @@
     <title>Login System in Python</title>
 </head>
 <body>
-    <h1>Basis version og Login-System in Python by <a href="https://pynative.blogspot.com/">@dev_code</a> </h1>
+    <h4>Basis version of Login-System in Python by <a href="https://pynative.blogspot.com/">@dev_code</a> </h4>
 </body>
 </html>
